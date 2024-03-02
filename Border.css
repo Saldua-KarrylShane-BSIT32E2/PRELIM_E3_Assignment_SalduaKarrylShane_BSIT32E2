@@ -1,0 +1,7 @@
+﻿
+    bordered-content {
+    border: 1px solid black; /* Adjust thickness, style (solid, dotted, etc.), and color */
+    padding: 10px; /* Optional: Add padding to create space around the content */
+    margin: 10px; /* Optional: Add margin to create space outside the border */
+}
+
